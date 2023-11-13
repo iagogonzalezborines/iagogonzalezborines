@@ -1,5 +1,9 @@
-### Hey!
+## Welcome to my Web Development Journey! 
 
-##### My name is Iago, and I am actively engaged in my journey to become a proficient web developer. 
+### Hello there!
 
-Currently enrolled in my studies, I am gaining valuable insights and practical experience to refine my skills. My expertise encompasses a range of programming languages, including HTML, CSS, Java, PHP, SQL, and JavaScript. Through hands-on projects and dedicated learning, I am building a strong foundation in web development. I am enthusiastic about leveraging my diverse skill set to create dynamic and user-friendly websites, contributing to the ever-evolving digital landscape.
+I'm Iago, and I'm immersed in my quest to become a skilled web developer. Currently, I'm deep into my studies, where I'm not just accumulating knowledge but also gaining practical insights to hone my skills.
+
+My toolkit spans a variety of programming languages, such as HTML, CSS, Java, PHP, SQL, and JavaScript. Through engaging in hands-on projects and dedicating myself to continuous learning, I'm laying a robust foundation in web development.
+
+What truly excites me is the prospect of utilizing my diverse skill set to craft dynamic and user-friendly websites. I am committed to making a meaningful contribution to the ever-evolving digital landscape.
