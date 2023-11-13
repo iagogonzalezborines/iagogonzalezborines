@@ -1,4 +1,4 @@
-## Welcome to my Web Development Journey! </> 
+## Welcome to my Web Development Journey! </> 🌐👨🏻‍💻
 ▬▬ι═══════ﺤ
 ### Hello there!
 
@@ -8,10 +8,10 @@ My toolkit spans a variety of programming languages, such as HTML, CSS, Java, PH
 
 What truly excites me is the prospect of utilizing my diverse skill set to craft dynamic and user-friendly websites. I am committed to making a meaningful contribution to the ever-evolving digital landscape.
                                                                                                             
-#### Languages:
+#### I speak:
   - Spanish
   - English
                                                                                                        
                                                                                                        
-                                                                                                        🌐👨🏻‍💻
+                                                                                                        
                                                                                                               
