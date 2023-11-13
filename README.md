@@ -1,5 +1,4 @@
 ## Welcome to my Web Development Journey! </> 🌐👨🏻‍💻
-                  }=={:::::::::::::::::>
                   
 ### Hello there!
 
