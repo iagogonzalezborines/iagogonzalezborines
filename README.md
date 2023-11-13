@@ -1,6 +1,8 @@
 ## Welcome to my Web Development Journey! </> 🌐👨🏻‍💻
-▬▬ι═══════ﺤ
+                  }=={:::::::::::::::::>
+                  
 ### Hello there!
+
 
 I'm Iago, and I'm immersed in my quest to become a skilled web developer. Currently, I'm deep into my studies, where I'm not just accumulating knowledge but also gaining practical insights to hone my skills.
 
