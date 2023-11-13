@@ -1,13 +1,30 @@
 ## Welcome to my Web Development Journey! </> 🌐👨🏻‍💻
-                  
-### Hello there!
 
+- **Introduction:**
+  - Hey there! I'm Iago, and I'm actively immersed in my quest to become a skilled web developer. 👨🏻‍💻
 
-I'm Iago, and I'm immersed in my quest to become a skilled web developer. Currently, I'm deep into my studies, where I'm not just accumulating knowledge but also gaining practical insights to hone my skills.
+- **Current Focus:**
+  - Currently enrolled in my studies, I'm not just accumulating knowledge but also gaining practical insights to hone       my skills.   🎓
 
-My toolkit spans a variety of programming languages, such as HTML, CSS, Java, PHP, SQL, and JavaScript. Through engaging in hands-on projects and dedicating myself to continuous learning, I'm laying a robust foundation in web development.
+- **Expertise:**
+  - My toolkit spans a variety of programming languages, including:
+  -  HTML </>
+  -  CSS 🪄
+  -  Java☕
+  -  PHP🐘
+  -  SQL🐬
+  -  JavaScript.🟨**JS**
 
-What truly excites me is the prospect of utilizing my diverse skill set to craft dynamic and user-friendly websites. I am committed to making a meaningful contribution to the ever-evolving digital landscape.
+- **Learning Approach:**
+  - Through engaging in hands-on projects and dedicating myself to continuous learning, I'm laying a robust foundation       in web development.
+
+- **Enthusiasm:**
+  - What truly excites me is the prospect of utilizing my diverse skill set to craft dynamic and user-friendly websites.
+
+- **Commitment:**
+  - I am committed to making a meaningful contribution to the ever-evolving digital landscape.
+
+Join me on this exciting journey as we explore the possibilities and intricacies of web development together!
                                                                                                             
 #### I speak:
   - Spanish
