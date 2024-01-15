@@ -2,7 +2,7 @@
 ## Web Developer
 -------------
 Currently enrolled in my studies, I'm not just accumulating knowledge but also gaining practical insights to hone my skills. 🎓 Learning Approach: Through engaging in hands-on projects and dedicating myself to continuous learning, I'm laying a robust foundation in web development.* 
-✉️  You can contact me at [iagognzalezborines@gmail.com](mailto:iagogonzalezborines@gmail.com)
+✉️  You can contact me at [iagogonzalezborines@gmail.com](mailto:iagogonzalezborines@gmail.com)
 
 ### Skills
 
