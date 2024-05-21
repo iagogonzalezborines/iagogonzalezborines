@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Iago and I'm a Full Stack Web Developer</h2>
 
-   <p>Sometimes, I'm the maestro behind digital marvels. I'm Iago, a Spanish web dev fluent in both code and English. Skilled in Laravel and React, I blend technical savvy with creative flair to craft captivating online experiences. Let's create something extraordinary together.</p>
+   <p>Sometimes, I'm the maestro behind digital marvels. I'm Iago, a Spanish web dev fluent in both code and English. Kinda skilled in Laravel and React, I blend technical savvy with creative flair to craft captivating online experiences. Let's create something extraordinary together.</p>
         <h3>---</h3>
         <p>Sometimes I create bugs.</p>
 
