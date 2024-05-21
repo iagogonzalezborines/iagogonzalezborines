@@ -96,7 +96,7 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iagogonzalezborines&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iagogonzalezborines&label=%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
 
 
 
