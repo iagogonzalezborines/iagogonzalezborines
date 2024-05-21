@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is Iago and I'm a Full Stack Web Developer</h2>
 
-###
+
 
 <img align="right" height="150" src=""  />
 
-###
+##Tech Stack 💻
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,7 +53,10 @@
   <img width="12" />
 </div>
 
-###
+##Im currently on...
+<p>Currently, I'm actively engaged at a vibrant marketing agency, where I'm involved in multiple projects. This environment has afforded me experience in working with frameworks like Laravel and React. In my role, I've had the opportunity to explore various aspects of web development, including managing backend systems and crafting frontend interfaces. Through these experiences, I've honed my skills in both backend and frontend development, while also gaining valuable insights into project management and client collaboration within the marketing industry.</p>
+
+##Contact
 
 <div align="left">
   <a href="iagogonzalezborines@gmail.com" target="_blank">
