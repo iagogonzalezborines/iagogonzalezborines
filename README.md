@@ -70,7 +70,7 @@
 
 
 <h2>  Im currently on...</h2>
-<p>Currently, I'm working for marketing agency, where I'm involved in multiple projects. This environment has afforded me experience in working with frameworks like Laravel and React. In my role, I've had the opportunity to explore various aspects of web development, including managing backend systems and crafting frontend interfaces. Through these experiences, I've honed my skills in both backend and frontend development, while also gaining valuable insights into project management and client collaboration within the marketing industry.</p>
+<p>Currently, I'm working for an IT company located in Vigo where we develop all kinds of software, specially on carbon footprint related software.</p>
 
 
 
