@@ -93,7 +93,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iagogonzalezborines&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 
 
